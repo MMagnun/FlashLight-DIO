@@ -12,7 +12,7 @@ Há ainda a ativação por movimento, que liga e desliga a lanterna ao chacoalha
 # Conteúdo
 
 - Libs react-native-shake e react-native-torch
-- Icons: 
+- Icons: https://drive.google.com/drive/folders/1Kuh5tysH7-UFuSLHX0IQIIh2xcghHUIX
 - Stylesheet
 - Hook useState
 - Hook UseEfect
